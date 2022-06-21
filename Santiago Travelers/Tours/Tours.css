@@ -5,7 +5,7 @@ body {
 .nav {
     background-color: #FF9F45;
     color: black;
-    
+
 }
 
 .Img-Nav {
@@ -13,29 +13,51 @@ body {
 }
 
 .tarjetas-all {
-    margin-left: 17%;
+    margin-left: 10%;
+	margin-right: 5pc;
+}
+
+.row {
+	height: 1%;
 }
 
 .col {
-    width: 41%;
-    height: 50%;
+    width: 32%;
+    height: 35%;
+	margin-top: 5%;
+	padding-left: 0%;
+}
+
+.card1 {
+	height: 32%;
 }
 
 .card2 {
-    width: 41%;
+    width: 32%;
+	height: 50%;
     margin-bottom: 8mm;
 }
 
+.card3{
+	width: 30%;
+	height: 5pc;
+}
+
 .img1 {
-    width: 41pc;
+    width: 30pc;
     height: 5%;
     margin-left: 0%;
 }
 
 .img2 {
-    width: 32pc;
-    height: 21pc;
-    
+    width: 30pc;
+    height: 50%;
+
+}
+
+.img3 {
+	height: 0%;
+	width: 100pc;
 }
 
 .footer-distributed{
